@@ -36,14 +36,13 @@ Tools Used:
 1. Clone the repository:
    git clone https://github.com/jschmidt1041/WGU-Data-Science-Portfolio.git
    cd WGU-Data-Science-Portfolio/K-Means Clustering/
-
 2. Open the notebook:
    jupyter notebook "K-Means Clustering.ipynb"
-
 3. Run the notebook cells to replicate the clustering process.
 
 📬 Contact
-For questions or feedback:
-
+Have questions or want to collaborate? Feel free to reach out!
 - Email: jessica.elaine.schmidt23@gmail.com
 - LinkedIn: https://www.linkedin.com/in/jessica-elaine-schmidt/
+  
+Thanks for reviewing this K-Means Clustering project!
